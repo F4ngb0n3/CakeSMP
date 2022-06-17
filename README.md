@@ -46,3 +46,6 @@ We **HIGHLY** recommend these plugins to go side-by-side with your install of **
 - [Brewery](https://dev.bukkit.org/projects/brewery): The COOLEST and most in-depth brewery plugin out there. Coffee, booze, hot chocolate... it never ends.
 - [Rampen Drills](https://www.spigotmc.org/resources/rampendrills.23086/): An awesome mining plugin that gives your players Mining Machines!
 - [TokedUp](https://www.spigotmc.org/resources/tokedup.102401/): A nifty Joint & Blunt plugin for your server!
+####
+## License
+**CakeSMP** uses the **Spigot API** target dependency, but all other code is hand-written from scratch and NOT to be reproduced, re-distributed, re-branded, snipped, or duplicated.
