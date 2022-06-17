@@ -48,4 +48,4 @@ We **HIGHLY** recommend these plugins to go side-by-side with your install of **
 - [TokedUp](https://www.spigotmc.org/resources/tokedup.102401/): A nifty Joint & Blunt plugin for your server!
 ####
 ## License
-**CakeSMP** uses the **Spigot API** target dependency, but all other code is hand-written from scratch and NOT to be reproduced, re-distributed, re-branded, snipped, or duplicated.
+**CakeSMP** uses the **Spigot API** target dependency, but all other code is hand-written from scratch by **F4ngdev and F4ngb0n3**, and NOT to be re-produced, re-distributed, re-branded, snipped, or duplicated.
