@@ -33,3 +33,16 @@ Basically, it covers all avenues and allows you to manage your server without ne
 - [Interactive Features](interactive.md)
 - [Behind-the-Scenes Features](behind-the-scenes.md)
 
+####
+## Support
+**F4ngdev** is always working tirelessly to ensure quality functional plugins, and should any questions or needs arise, we invite you to open a support ticket here on the **CakeSMP Github** where we can manage and get all things plugin related handled. If this forum isn't working for you, we always have the **F4ngdev Discord** where everything plugin and development related is open-discussion.
+
+####
+## Additional Plugins ( Our Favorites )
+We **HIGHLY** recommend these plugins to go side-by-side with your install of **CakeSMP**, as they are one-of-a-kind and extremely unique in their crafting. Plus, the immersion with these is AWESOME.
+
+- [Ultimate Timber](https://songoda.com/marketplace/product/ultimatetimber-the-realistic-tree-chopper.18): The #1 tree chopping plugin for Minecraft. Period.
+- [Commish Bounties](https://www.spigotmc.org/resources/commish-bounties.102367/): Add crime and bounties to your server!
+- [Brewery](https://dev.bukkit.org/projects/brewery): The COOLEST and most in-depth brewery plugin out there. Coffee, booze, hot chocolate... it never ends.
+- [Rampen Drills](https://www.spigotmc.org/resources/rampendrills.23086/): An awesome mining plugin that gives your players Mining Machines!
+- [TokedUp](https://www.spigotmc.org/resources/tokedup.102401/): A nifty Joint & Blunt plugin for your server!
