@@ -31,5 +31,5 @@ Basically, it covers all avenues and allows you to manage your server without ne
 ### Sections
 - [Configuration](configuration.md)
 - [Interactive Features](interactive.md)
-- [Behind-the-Scenes Features]()
+- [Behind-the-Scenes Features](behind-the-scenes.md)
 
