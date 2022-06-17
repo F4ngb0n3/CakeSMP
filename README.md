@@ -1,7 +1,7 @@
 # CakeSMP
 *The official documentation for the CakeSMP Minecraft Plugin*
   
-**CakeSMP** was developed with one thing in mind; MINIMAL plugins and still have a complete, functioning SMP server that covers all of your online Minecraft needs.
+**CakeSMP** was developed with one thing in mind; MINIMAL plugins and still have a complete, functioning SMP server that covers all of your online Minecraft needs, while delivering an immersive, engaging and fun online server experience. Many of the features you will see are attributed to a **Role-Play** feel and layout. Obviously, run your server your way, but **CakeSMP** is really just a gateway into what your server could become!
 
 With a myriad of features ranging from a Bank all the way to a Random Teleporter, **CakeSMP** has taken some of the best plugins and packaged them into one utlimate file for your server.
 ####
