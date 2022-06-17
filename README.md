@@ -30,6 +30,6 @@ Basically, it covers all avenues and allows you to manage your server without ne
 ####
 ### Sections
 - [Configuration](configuration.md)
-- [Interactive Features]()
+- [Interactive Features](interactive.md)
 - [Behind-the-Scenes Features]()
 
