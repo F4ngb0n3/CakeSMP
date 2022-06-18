@@ -35,7 +35,7 @@ Basically, it covers all avenues and allows you to manage your server without ne
 
 ####
 ## Support
-**F4ngdev** is always working tirelessly to ensure quality functional plugins, and should any questions or needs arise, we invite you to open a support ticket here on the **CakeSMP Github** where we can manage and get all things plugin related handled. If this forum isn't working for you, we always have the **F4ngdev Discord** where everything plugin and development related is open-discussion.
+**F4ngdev** is always working tirelessly to ensure quality functional plugins, and should any questions or needs arise, we invite you to open a support ticket here on the **CakeSMP Github** where we can manage and get all things plugin related handled. If this forum isn't working for you, we always have the [**F4ngdev Discord**](https://www.spigotmc.org/resources/cakesmp.102697/) where everything plugin and development related is open-discussion.
 
 ####
 ## Additional Plugins ( Our Favorites )
