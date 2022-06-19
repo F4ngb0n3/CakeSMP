@@ -19,6 +19,7 @@ THE PAPER MONEY**, and will deposit the sum back into your account.
 | --  | pay [player] [amount] | Pay the specified player a specific amount. *( **O.P** -- use this to pay yourself from the server! )* |
 | --  | withdrawl [amount] | Withdrawl the specific amount into paper money |
 | --  | deposit | Deposit the amount of the paper money in your hand BACK into your account |
+| --  | exchange | Exchange **DIAMONDS / EMERALDS IN HAND** for money in your bank account |
 
 ####
 ## Cerberus
