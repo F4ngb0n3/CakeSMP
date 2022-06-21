@@ -23,9 +23,24 @@ THE PAPER MONEY**, and will deposit the sum back into your account.
 
 ####
 ## Cerberus
-Cerberus is the **Land Claim** feature of **CakeSMP** and allows players to enact privacy on **ONE LOCATION**! Players are ONLY allowed to have one land claim at a time... this isn't the 1%-ers...
+Cerberus is the **Land Claim & Security** feature of **CakeSMP** and allows players to enact privacy on **ONE LOCATION**! Players are ONLY allowed to have one land claim at a time... this isn't the 1%-ers...
+
+> NOTE:
+> _Land Claims is currently disabled! The Home Security feature is ACTIVE!_
 
 Cerberus is used by equipping a **Wooden Hoe**, then right-clicking 2 blocks on opposite corners from eachother. These locations will be stored and that area will then belong to the player. Should the player want to move and find a new location, they will need to be standing in the **CURRENT** claim and use the `/sellclaim` command. They will recieve compensation, and the claim will no longer be tied to them, allowing them to move on to greater horizons.
+
+**_NEW FEATURE:_**  
+**Cerberus Home Security** is the newest feature to **CakeSMP** and it allows players to claim doors attached to structures _( normally a house )_ as their own and keep other players out! Players are allowed a **default of 3 homes to claim**, and an O.P. can give additional houses if the need arises.
+
+The Player / O.P. need to be **_RIGHT IN FRONT OF THE DOOR AND LOOKING AT IT_** to use any of the commands below! The distance is registered at **1 block** so get all up in that door's business!
+
+| Command | Args | Permissions | Description |
+| ------- | ---- | ----------- | ----------- |
+| /claimhome | N/A | Everyone | Allows a player to claim a door attached to a structure. Default 3 allowed per player |
+| /abandonhome | N/A | Everyone | Allows a player to abandon a specific home |
+| /setowner | [player] | O.P. | Allows O.P. to override max houses and give player another home |
+| /removeowner | [player] | O.P. | Allows O.P. to remove a home from a player at any time |
 
 ####
 ## Magicka  
