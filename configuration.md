@@ -16,6 +16,8 @@ The config is a VAST land of values and flags, and should be treated carefully a
 | claim-buyout-amount | 850                         | The amount a player will receive when they sell their claim back to the server                                |
 | ranks               | List of Values              | These are the default names for Ranks CakeSMP uses. These can be changed to whatever values / titles you want |
 | shop-name           | "CakeSMP"                   | The default shop title that will write itself to the GUI of the server shop.                                  |
+| use-cerberus-claims | false                       | Whether **CakeSMP** will use the Land Claims system or not. LEAVE TO FALSE!                                   |
+| cerberus-house-max  | 3                           | The amount of doors / homes a player is allowed to claim                                                      |
 
 ####  
 ####  
