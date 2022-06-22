@@ -31,6 +31,7 @@ Basically, it covers all avenues and allows you to manage your server without ne
 > *Due to **CakeSMP** being a standalone plugin, you may add additional plugins to increase your fun, but DO NOT add any plugins that may replace features of **CakeSMP** as it can cause your server to short-out*
 ####
 ### Sections
+- [First Steps(first-steps.md)
 - [Configuration](configuration.md)
 - [Interactive Features](interactive.md)
 - [Behind-the-Scenes Features](behind-the-scenes.md)
