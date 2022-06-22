@@ -15,6 +15,8 @@ With a myriad of features ranging from a Bank all the way to a Random Teleporter
 - **Fast Travel** - Got multiple locations that are your hotspots? Want to travel between them effortlessly and seamlessly? Fast Travel lets you set locations so you can do just that!
   
 - **Rubbish** - Tired of Lava Trashes setting everything on fire? Ready for a more modern and useful trash system? With sign capabilities, clean up your pockets and get rid of the rubbish permanently!
+
+- **Gear / Tool / Weapon Smelting** - Get your ingots and diamonds back from unused gear, weapons, and tools by smelting them down into the parts that created them!
   
 - ***And MOOOORE!!!***
 ####
