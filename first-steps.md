@@ -1,6 +1,6 @@
 # First Steps
 
-What to do now that you have **CakeSMP**? Well first things first, you are gonna want to head over to the [Configruation](configuration.md) section and read up on all the available values that are up for customization. This will get your feet in the door at having a decent understanding of what **CakeSMP** can do for your server.
+What to do now that you have **CakeSMP**? Well first things first, you are gonna want to head over to the [Configuration](configuration.md) section and read up on all the available values that are up for customization. This will get your feet in the door at having a decent understanding of what **CakeSMP** can do for your server.
 
 ## All Read Up on Config?
 Awesome-sauce! Let's jump the hell in!
