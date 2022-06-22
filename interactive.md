@@ -1,6 +1,14 @@
 # Plugin Interactive Feature List  
 As stated above, the features of **CakeSMP** allow you to have a standalone SMP plugin with minimal needs to other plugins to round out the whole experience for you and your friends. Below you will find a detailed list of all the features and how to use them within the plugin for seamless integration.  
 
+## NEW FEATURE:  
+You can now **_smelt Diamond, Iron, and Gold Armor / Weapons / Tools_** back into their individual ingot-based counterparts! Simply throw the item inot a **_Blast Furnace_** and it will smelt it back down into what made it. The amount of resources ( ingot / diamonds ) you receive is RANDOM and based off the amount it took to create them with a +-2 fluctuation.
+
+**Example:**
+- A Diamond Pick Axe will give you either 0 or 3 diamonds back
+- An Iron Chestplate will give you either 6 or 8 iron ingots back  
+####
+
 ####
 ## Bank
 The **CakeSMP Bank** gives you an economy that is easily managed and wired throughout the ENTIRE plugin and changes dynamically so you have nothing to worry about with setup and use. Pay other players, watch your money grow from working, withdrawl/deposit actual paper money, sell items to the **Recycling Center** for income, sell claims... the list goes on.
