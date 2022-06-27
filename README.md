@@ -6,7 +6,7 @@
 With a myriad of features ranging from a Bank all the way to a Random Teleporter, **CakeSMP** has taken some of the best plugins and packaged them into one utlimate file for your server.
 ####
 ### Some Features
-- **Bank** - Complete custom banking system allowing your players to make, access, and pay other players with. **W.I.P.** *We are developing a way to transfer the money in your account into physical paper tender to trade with!*
+- **Bank** - Complete custom banking system allowing your players to make, access, and pay other players with. ~~**W.I.P.** *We are developing a way to transfer the money in your account into physical paper tender to trade with!*~~ _<-- That shit works!_
   
 - **Job Corps** - Tap into your favorite job with the BIG list of options we have and start making money! Butcher, Hunter, Breeder, Farmer... sooo many choices!
   
