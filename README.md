@@ -1,5 +1,7 @@
 # CakeSMP
 *The official documentation for the CakeSMP Minecraft Plugin*
+
+**_WE HAVE HIT 100 DOWNLOADS ON SPIGOT!!!_ Thank you all so much for your support!**
   
 **CakeSMP** was developed with one thing in mind; MINIMAL plugins and still have a complete, functioning SMP server that covers all of your online Minecraft needs, while delivering an immersive, engaging and fun online server experience. Many of the features you will see are attributed to a **Role-Play** feel and layout. Obviously, run your server your way, but **CakeSMP** is really just a gateway into what your server could become!
 
