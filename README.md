@@ -33,7 +33,7 @@ Basically, it covers all avenues and allows you to manage your server without ne
 ### Sections
 - [First Steps](first-steps.md)
 - [Configuration](configuration.md)
-- [Interactive Features](interactive.md)
+- [Interactive Features (Commands)](interactive.md)
 - [Behind-the-Scenes Features](behind-the-scenes.md)
 
 ####
