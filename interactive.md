@@ -7,22 +7,27 @@ You can now **_smelt Diamond, Iron, and Gold Armor / Weapons / Tools_** back int
 **Example:**
 - A Diamond Pick Axe will give you either 0 or 3 diamonds back
 - An Iron Chestplate will give you either 6 or 8 iron ingots back  
-####
+####  
+
+## CakeKnife
+This feature is your `/help` command for all things **CakeSMP** related. By using the command, and adding an optional number for pages, **CakeSMP** will display all of the commands and features available to your players in a colorful and legible fashion.
+
+| Command | Args | Description |
+| --- | --- | --- |
+| /cake | [page no.] | View the Help pages on **CakeSMP** and get quick answers to questions regarding the commands and features |
 
 ####
 ## Bank
 The **CakeSMP Bank** gives you an economy that is easily managed and wired throughout the ENTIRE plugin and changes dynamically so you have nothing to worry about with setup and use. Pay other players, watch your money grow from working, withdrawl/deposit actual paper money, sell items to the **Recycling Center** for income, sell claims... the list goes on.
 
-```md
-Withdrawl / Deposit is a W.I.P. and allows player to *withdrawl* a 
-specific amount of money that is converted into `PAPER` with a specific 
-title to denote the value. A *deposit* can also be made **WHILE HOLDING 
-THE PAPER MONEY**, and will deposit the sum back into your account.
-```
+
+> Withdrawl / Deposit ~~is a W.I.P.~~ **NOW WORKS**, and allows player to *withdrawl* a specific amount of money that is converted into `PAPER` with a specific title to denote the value. A *deposit* can also be made **WHILE HOLDING THE PAPER MONEY**, and will deposit the sum back into your account.  
+
 
 | Command | Args | Description |
 | --- | --- | --- |
-| /bank | ALL | Main initiator of the Bank plugin. This MUST come before every Bank associated argument. |
+| /bank | ALL | Main initiator of the Bank plugin. This **_MUST_** come before every other Bank associated argument. |
+| /bank | -- | Used solo to display current player Bank account status readout. |
 | --  | balance | Check your current Bank balance |
 | --  | pay [player] [amount] | Pay the specified player a specific amount. *( **O.P** -- use this to pay yourself from the server! )* |
 | --  | withdrawl [amount] | Withdrawl the specific amount into paper money |
@@ -153,13 +158,4 @@ The **ServShop** is a HUGE asset to have on the server, as it allows you to give
 | Command | Args | Description |
 | --- | --- | --- |
 | /setsmpspawn | N/A | Sets the world spawn point to the location the player is standing when the command is given |
-
-####
-## CakeKnife
-This feature is your `/help` command for all things **CakeSMP** related. By using the command, and adding an optional number for pages, **CakeSMP** will display all of the commands and features available to your players in a colorful and legible fashion.
-
-| Command | Args | Description |
-| --- | --- | --- |
-| /cake | [page no.] | View the Help pages on **CakeSMP** and get quick answers to questions regarding the commands and features |
-
 ####
