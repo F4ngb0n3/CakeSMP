@@ -22,6 +22,25 @@ The config is a VAST land of values and flags, and should be treated carefully a
 ####  
 ####  
 
+## MineDash Menu Config  -- _(NEW FEATURE)_
+`minedash.yml`  
+
+Although you *CAN* change the products, we recommend leaving them as-is and adding your own, custom products to the config! With that being said, F4ngdev takes NO responsibility for broken plugins and messed up configs. The way products are handled is a unique way of doing things that streamlines the process and allows for simple easy use within your server.
+
+Example of Products:
+```yml
+minedash-menu:
+  filetmignon: # (Product Name) Name of the item ALL LOWERCASE & One Word SIMILAR to what you are naming it
+    name: "Filet Mignon" # Display Name for the item
+    material: 'COOKED_BEEF' # Minecraft generated Material type
+    price: 5000 # Price of the item(s)
+    amount: 3 # Amount to be sold at one time
+```
+Each product will go UNDER the `minedash-menu` indicator, and will be labeled and formatted as shown above. The `(Product Name)` needs to be a SIMILAR name of the Display Name and needs to be spelled as shown above. Below that, you set the matching Material type *( Example is Filet Mignon so Material = COOKED_BEEF )* that is generated from the Minecraft side of the game. Following that is your `price` you want the item sold at, and then the `amount` of items to be sold at once *( think of it as like a package deal if its more than 1 )
+
+####
+####  
+
 ## Products Config  
 `products.yml`  
 
