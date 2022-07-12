@@ -1,7 +1,9 @@
 # CakeSMP
 *The official documentation for the CakeSMP Minecraft Plugin*
 
-**_WE HAVE HIT 100 DOWNLOADS ON SPIGOT!!!_ Thank you all so much for your support!**
+### _NOW SUPPORTING 1.19!!!_  
+
+### **_WE HAVE HIT 100 DOWNLOADS ON SPIGOT!!!_ Thank you all so much for your support!**  
   
 **CakeSMP** was developed with one thing in mind; MINIMAL plugins and still have a complete, functioning SMP server that covers all of your online Minecraft needs, while delivering an immersive, engaging and fun online server experience. Many of the features you will see are attributed to a **Role-Play** feel and layout. Obviously, run your server your way, but **CakeSMP** is really just a gateway into what your server could become!
 
@@ -19,6 +21,8 @@ With a myriad of features ranging from a Bank all the way to a Random Teleporter
 - **Rubbish** - Tired of Lava Trashes setting everything on fire? Ready for a more modern and useful trash system? With sign capabilities, clean up your pockets and get rid of the rubbish permanently!
 
 - **Gear / Tool / Weapon Smelting** - Get your ingots and diamonds back from unused gear, weapons, and tools by smelting them down into the parts that created them!
+
+- **MineDash** - The newest feature of **CakeSMP**! Let your players order food for delivery while they are busy screwin aboot in the world!
   
 - ***And MOOOORE!!!***
 ####
