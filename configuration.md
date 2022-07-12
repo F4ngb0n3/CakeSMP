@@ -9,15 +9,17 @@ The config is a VAST land of values and flags, and should be treated carefully a
 `config.yml`  
 | Key                 | Value                       | Description                                                                                                   |
 |:-------------------:|:---------------------------:|:-------------------------------------------------------------------------------------------------------------:|
-| prefix              | "&f[&4Cake&5SMP&f] >> "     | The **ColorCoded** message that is prepended to any message displaying from the CakeSMP plugin.               |
-| welcome-ttl         | "&5Welcome, {PLAYER}!"      | Default Welcome Title message displayed to **NEW PLAYERS**                                                    |
-| welcome-back-ttl    | "&4Welcome Back, {PLAYER}!" | Default Welcome Title message displayed to **RETURNING PLAYERS**                                              |
-| max-player-markers  | 7                           | Default amount of Fat Travel locations a player is **ALLOWED** to have. Defaults to 7                         |
-| claim-buyout-amount | 850                         | The amount a player will receive when they sell their claim back to the server                                |
-| ranks               | List of Values              | These are the default names for Ranks CakeSMP uses. These can be changed to whatever values / titles you want |
-| shop-name           | "CakeSMP"                   | The default shop title that will write itself to the GUI of the server shop.                                  |
-| use-cerberus-claims | false                       | Whether **CakeSMP** will use the Land Claims system or not. LEAVE TO FALSE!                                   |
-| cerberus-house-max  | 3                           | The amount of doors / homes a player is allowed to claim                                                      |
+| prefix                  | "&f[&4Cake&5SMP&f] >> "     | The **ColorCoded** message that is prepended to any message displaying from the CakeSMP plugin.           |
+| welcome-ttl             | "&5Welcome, {PLAYER}!"      | Default Welcome Title message displayed to **NEW PLAYERS**                                                |
+| welcome-back-ttl        | "&4Welcome Back, {PLAYER}!" | Default Welcome Title message displayed to **RETURNING PLAYERS**                                          |
+| max-player-markers      | 7                           | Default amount of Fat Travel locations a player is **ALLOWED** to have. Defaults to 7                     |
+| claim-buyout-amount     | 850                         | The amount a player will receive when they sell their claim back to the server                            |
+| ranks                   | List of Values              | These are the default names for Ranks CakeSMP uses. These can be changed to whatever values you want      |
+| shop-name               | "CakeSMP"                   | The default shop title that will write itself to the GUI of the server shop.                              |
+| use-cerberus-claims     | false                       | Whether **CakeSMP** will use the Land Claims system or not. LEAVE TO FALSE!                               |
+| cerberus-house-max      | 3                           | The amount of doors / homes a player is allowed to claim                                                  |
+| use-minedash-delivery   | true                        | Whether MineDash uses a delivery wait-timer before items are given to player                              |
+| minedash-delivery-timer | 3000                        | The amount of time in SECONDS the player needs to wait for their food delivery. Defaults to 3000 seconds  |
 
 ####  
 ####  
