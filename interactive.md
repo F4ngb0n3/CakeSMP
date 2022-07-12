@@ -1,12 +1,13 @@
 # Plugin Interactive Feature List  
 As stated above, the features of **CakeSMP** allow you to have a standalone SMP plugin with minimal needs to other plugins to round out the whole experience for you and your friends. Below you will find a detailed list of all the features and how to use them within the plugin for seamless integration.  
 
-## NEW FEATURE:  
-You can now **_smelt Diamond, Iron, and Gold Armor / Weapons / Tools_** back into their individual ingot-based counterparts! Simply throw the item inot a **_Blast Furnace_** and it will smelt it back down into what made it. The amount of resources ( ingot / diamonds ) you receive is RANDOM and based off the amount it took to create them with a +-2 fluctuation.
+## NEW FEATURE -- MineDash:  
+**CakeSMP** now has a wicked awesome feature to introduce -- please welcome, **_MineDash_** to the plugin! With this new feature you can have food delivered to your players while they are busy! With a simple command and a robust customization capability, there is no limit _(aside from the Chest size limit)_ to what you can create! Make sure you check out the config to see what options are default, and how to add your own food to the menu!
 
-**Example:**
-- A Diamond Pick Axe will give you either 0 or 3 diamonds back
-- An Iron Chestplate will give you either 6 or 8 iron ingots back  
+| Command | Description |
+| --- | --- |
+| /minedash | Opens the MineDash Menu GUI for players to choose items from |
+
 ####  
 
 ## CakeKnife
@@ -16,7 +17,8 @@ This feature is your `/help` command for all things **CakeSMP** related. By usin
 | --- | --- | --- |
 | /cake | [page no.] | View the Help pages on **CakeSMP** and get quick answers to questions regarding the commands and features |
 
-####
+####    
+
 ## Bank
 The **CakeSMP Bank** gives you an economy that is easily managed and wired throughout the ENTIRE plugin and changes dynamically so you have nothing to worry about with setup and use. Pay other players, watch your money grow from working, withdrawl/deposit actual paper money, sell items to the **Recycling Center** for income, sell claims... the list goes on.
 
@@ -41,10 +43,9 @@ Cerberus is the **Land Claim & Security** feature of **CakeSMP** and allows play
 > NOTE:
 > _Land Claims is currently disabled! The Home Security feature is ACTIVE!_
 
-Cerberus is used by equipping a **Wooden Hoe**, then right-clicking 2 blocks on opposite corners from eachother. These locations will be stored and that area will then belong to the player. Should the player want to move and find a new location, they will need to be standing in the **CURRENT** claim and use the `/sellclaim` command. They will recieve compensation, and the claim will no longer be tied to them, allowing them to move on to greater horizons.
+Cerberus is used by equipping a **Wooden Hoe**, then right-clicking 2 blocks on opposite corners from eachother. These locations will be stored and that area will then belong to the player. Should the player want to move and find a new location, they will need to be standing in the **CURRENT** claim and use the `/sellclaim` command. They will recieve compensation, and the claim will no longer be tied to them, allowing them to move on to greater horizons.  
 
-**_NEW FEATURE:_**  
-**Cerberus Home Security** is the newest feature to **CakeSMP** and it allows players to claim doors attached to structures _( normally a house )_ as their own and keep other players out! Players are allowed a **default of 3 homes to claim**, and an O.P. can give additional houses if the need arises.
+**Cerberus Home Security** is the newest feature to the **CakeSMP Cerberus Security System**, and it allows players to claim doors attached to structures _( normally a house )_ as their own and keep other players out! Players are allowed a **default of 3 homes to claim**, and an O.P. can give additional houses if the need arises.
 
 The Player / O.P. need to be **_RIGHT IN FRONT OF THE DOOR AND LOOKING AT IT_** to use any of the commands below! The distance is registered at **1 block** so get all up in that door's business!
 
